@@ -11,9 +11,10 @@ The "green" lines are produced by adding noise to a Sine curve.</br>
 The "black" lines are the original Sine curve.</br>
 The "No. to Extrapolate" box can be used to add/subtract the number of data points (red) that are forecasted into the future.
 ### Comments
-When you use the slider you will notice the forecasted data (red) has a strange shape when the Sine curve tops (or bottom out).</br>
+When you use the slider you will notice the forecasted data (red) has a strange shape when the Sine curve tops (or bottoms out).</br>
 If someone has an explanation for this behaviour I would appreciate your comments.
-Also, the Kalman curve is shifed below the Sine curve.  I wonder why.
+Also, the Kalman curve is shifed below the Sine curve.</br>
+I wonder why.
 
 Charles Brauer
 CBrauer@CypressPoint.com
