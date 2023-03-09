@@ -4,11 +4,9 @@ This project was built with Visual Studio 2022 and .NET 7.0.
 ### Application at Launch
 When the application is first launched it looks like:
 
-![Kalman](https://user-images.githubusercontent.com/1317234/224157065-e5af1bde-4357-4abf-815a-d9f6ce550be2.png)
+![Kalman](https://user-images.githubusercontent.com/1317234/224166439-28048dbe-31e8-4b68-9b18-0403dc4c351a.png)
 
-The slider underneath the chart can be used to add/subtract the number of data points.
-
-The "green" lines are produced by adding noise to a Sine curve.
-The "black" lines are the original Sine curve.
-
+The slider underneath the chart can be used to add/subtract the number of data points.</br>
+The "green" lines are produced by adding noise to a Sine curve.</br>
+The "black" lines are the original Sine curve.</br>
 The "No. to Extrapolate" box can be used to add/subtract the number of data points (red) that are forecasted into the future.
