@@ -12,10 +12,10 @@ The "black" lines are the original Sine curve.</br>
 The "No. to Extrapolate" box can be used to add/subtract the number of data points (red) that are forecasted into the future.
 ### Comments
 When you use the slider you will notice the forecasted data (red) has a strange shape when the Sine curve tops (or bottoms out).</br>
-If someone has an explanation for this behaviour I would appreciate your comments.
+If someone has an explanation for this behaviour I would appreciate your comments.<br>
 Also, the Kalman curve is shifed below the Sine curve.</br>
 I wonder why.
 
-Charles Brauer
+Charles Brauer</br>
 CBrauer@CypressPoint.com
 
