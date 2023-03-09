@@ -7,4 +7,4 @@ When the application if first launched it looks like:
 
 The slider underneath the chart can be used to add/subtract the number of data points.
 
-The 
+The "No to Extrapolate" box can be used to predict the data trend into the future,
