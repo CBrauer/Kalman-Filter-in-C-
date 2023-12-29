@@ -1,5 +1,4 @@
 ### A Kalman Filter implemented in C#
-This project was built with Visual Studio 2022 and .NET 7.0.
 
 ### Application at Launch
 When the application is first launched it looks like:
