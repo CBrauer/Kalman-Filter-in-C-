@@ -16,6 +16,12 @@ If someone has an explanation for this behaviour I would appreciate your comment
 Also, the Kalman curve is shifed below the Sine curve.</br>
 I wonder why?
 
+### My Environment
+* Windows 11, version: 23H2 (10.0.22631.2861) (December 12, 2023)
+* Microsoft Visual Studio Professional 2022 (64-bit) - Current Version 17.8.3
+* .NET 8.0
+* ScottPlot. WinForms, Version=5.0.11-beta
+
 Charles Brauer</br>
 CBrauer@CypressPoint.com
 
